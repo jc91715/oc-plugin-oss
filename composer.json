@@ -1,0 +1,5 @@
+{
+    "require": {
+        "apollopy/flysystem-aliyun-oss": "^1.2"
+    }
+}

@@ -1,0 +1,14 @@
+fields:
+    access_id:
+        label: ALIYUN_ACCESS_ID
+    access_key:
+        label: ALIYUN_ACCESS_SECRET
+    bucket:
+        label: ALIYUN_OSS_FILES_BUCKET_NAME
+    endpoint:
+        label: ALIYUN_OSS_ENDPOINT
+    prefix:
+        label: prefix
+    domain:
+        label: ALIYUN_OSS_FILES_BUCKET_DOMAIN
+
